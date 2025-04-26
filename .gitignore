@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Configuración del entorno
+.env
+.env.local
+.env.*.local
+
+# Directorios de IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de salida
+/dist/
+/build/
+
+# Archivos de dependencias globales
+/.pnp/
+/.pnp.js
+
+# Logs
+*.log
+
+# Otros
+coverage/
+*.tgz
+*.bak
+*.swp
